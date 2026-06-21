@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi, I'm Elaf 👋
+
+🎓 Artificial Intelligence student at Princess Nourah University.
+
+I'm passionate about Artificial Intelligence, Data Science, and Software Development. I enjoy building Java applications, exploring Python, and continuously improving my programming skills through academic and personal projects.
+
+## 💻 Technologies
+
+* Java
+* Python
+* SQL
+* Git & GitHub
+
+## 📚 Currently Learning
+
+* IBM Data Science Professional Certificate
+* Machine Learning
+* Data Analysis
+
+## 🚀 Projects
+
+Here you'll find my university projects, coding exercises, and personal projects as I continue learning and growing as an AI student.
+
 
 <!--
 **elafmas/elafmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
