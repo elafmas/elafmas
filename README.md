@@ -1,26 +1,25 @@
 # Hi, I'm Elaf 👋
 
-I am currently studying Artificial Intelligence student at Princess Nourah University.
+I’m an Artificial Intelligence student at Princess Nourah University.
 
-I'm passionate about Artificial Intelligence, Data Science, and Software Development. I enjoy building Java applications, exploring Python, and continuously improving my programming skills through academic and personal projects.
+I’m interested in Artificial Intelligence, Data Science, and programming. I enjoy learning new technologies and improving my programming skills through university projects and online courses.
 
-## 💻 Technologies
+## 💻 Technical Background
 
 * Java
-* Python
-* SQL
-* Git & GitHub
+* Python (Basic)
+* SQL (Basic)
+* Swift (Currently Learning)
+
 
 ## 📚 Currently Learning
 
 * IBM Data Science Professional Certificate
-* Machine Learning
-* Data Analysis
+* Swift & iOS Development
 
 ## 🚀 Projects
 
-Here you'll find my university projects, coding exercises, and personal projects as I continue learning and growing as an AI student.
-
+Here you'll find my university projects, coding exercises as I continue developing my programming and AI skills.
 
 <!--
 **elafmas/elafmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
