@@ -1,6 +1,6 @@
 # Hi, I'm Elaf 👋
 
-🎓 Artificial Intelligence student at Princess Nourah University.
+I am currently studying Artificial Intelligence student at Princess Nourah University.
 
 I'm passionate about Artificial Intelligence, Data Science, and Software Development. I enjoy building Java applications, exploring Python, and continuously improving my programming skills through academic and personal projects.
 
